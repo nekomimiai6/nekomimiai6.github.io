@@ -1,0 +1,4 @@
+# app-ads.txt for 深淵ドリル
+# Replace pub-XXXXXXXXXXXXXXXX with the publisher ID from your AdMob account
+# (AdMob > Apps > app-ads.txt shows the exact line to copy), then remove this comment block.
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
